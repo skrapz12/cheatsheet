@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Git and Bash Cheat Sheet
 
 This cheat sheet contains useful commands and tips for Git and Bash.
